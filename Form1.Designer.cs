@@ -76,6 +76,7 @@
             this.txbProduto.Name = "txbProduto";
             this.txbProduto.Size = new System.Drawing.Size(178, 24);
             this.txbProduto.TabIndex = 3;
+            this.txbProduto.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txbProduto_KeyDown);
             // 
             // btnAdicionar
             // 
@@ -88,6 +89,7 @@
             this.btnAdicionar.TabIndex = 4;
             this.btnAdicionar.Text = "ADICIONAR";
             this.btnAdicionar.UseVisualStyleBackColor = false;
+            this.btnAdicionar.Click += new System.EventHandler(this.btnAdicionar_Click);
             // 
             // libCompras
             // 
@@ -109,6 +111,7 @@
             this.btnExcluir.TabIndex = 6;
             this.btnExcluir.Text = "Excluir";
             this.btnExcluir.UseVisualStyleBackColor = false;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click);
             // 
             // btnApagartd
             // 
@@ -121,6 +124,7 @@
             this.btnApagartd.TabIndex = 7;
             this.btnApagartd.Text = "Limpar Lista";
             this.btnApagartd.UseVisualStyleBackColor = false;
+            this.btnApagartd.Click += new System.EventHandler(this.btnApagartd_Click);
             // 
             // Form1
             // 
