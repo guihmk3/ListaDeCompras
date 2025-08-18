@@ -15,7 +15,6 @@ O objetivo é oferecer uma interface prática e intuitiva para adicionar, visualiz
 
 ---
 
-## ??? Captura de Tela
-
-![Captura de Tela](print.jpg)
+## Captura de Tela
+[Captura de Tela](print.jpg)
 
