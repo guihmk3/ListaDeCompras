@@ -1,68 +1,68 @@
-ğŸ›’ Sistema de Gerenciamento de Lista de Compras
-Um aplicativo desktop simples e intuitivo desenvolvido em C# Windows Forms para gerenciar suas listas de compras de forma prÃ¡tica e eficiente.
+?? Sistema de Gerenciamento de Lista de Compras
+Um aplicativo desktop simples e intuitivo desenvolvido em C# Windows Forms para gerenciar suas listas de compras de forma prática e eficiente.
 Mostrar Imagem
-ğŸ“‹ Funcionalidades
-âœ… Adicionar itens: Insira novos produtos na sua lista atravÃ©s de um campo de texto
-âŒ Remover item especÃ­fico: Exclua um item selecionado da lista
-ğŸ—‘ï¸ Limpar lista completa: Apague todos os itens de uma sÃ³ vez
-ğŸ“± Interface amigÃ¡vel: Design limpo e intuitivo para melhor experiÃªncia do usuÃ¡rio
-âš¡ Recursos de usabilidade: Funcionalidades implementadas para facilitar o uso diÃ¡rio
-ğŸ–¥ï¸ Tecnologias Utilizadas
+?? Funcionalidades
+? Adicionar itens: Insira novos produtos na sua lista através de um campo de texto
+? Remover item específico: Exclua um item selecionado da lista
+??? Limpar lista completa: Apague todos os itens de uma só vez
+?? Interface amigável: Design limpo e intuitivo para melhor experiência do usuário
+? Recursos de usabilidade: Funcionalidades implementadas para facilitar o uso diário
+??? Tecnologias Utilizadas
 Linguagem: C#
 Framework: .NET Framework / .NET
 Interface: Windows Forms
 IDE: Visual Studio
-ğŸ¯ Como Usar
+?? Como Usar
 Adicionar Item:
 Digite o nome do produto no campo de texto
-Clique no botÃ£o "Adicionar" ou pressione Enter
-O item aparecerÃ¡ na lista
-Remover Item EspecÃ­fico:
+Clique no botão "Adicionar" ou pressione Enter
+O item aparecerá na lista
+Remover Item Específico:
 Selecione o item desejado na lista
-Clique no botÃ£o "Remover Item"
+Clique no botão "Remover Item"
 Limpar Lista Completa:
-Clique no botÃ£o "Limpar Lista"
-Todos os itens serÃ£o removidos
-ğŸš€ Como Executar o Projeto
-PrÃ©-requisitos
+Clique no botão "Limpar Lista"
+Todos os itens serão removidos
+?? Como Executar o Projeto
+Pré-requisitos
 Visual Studio 2019 ou superior
 .NET Framework 4.7.2 ou superior
-Passos para execuÃ§Ã£o
-Clone este repositÃ³rio:
+Passos para execução
+Clone este repositório:
 Abra o projeto no Visual Studio:
 Compile e execute o projeto pressionando F5 ou clicando em "Iniciar"
-ğŸ“ Estrutura do Projeto
+?? Estrutura do Projeto
  
  
-ListaDeCompras/â”œâ”€â”€ Form1.cs              # FormulÃ¡rio principalâ”œâ”€â”€ Form1.Designer.cs     # Design do formulÃ¡rioâ”œâ”€â”€ Form1.resx           # Recursos do formulÃ¡rioâ”œâ”€â”€ Program.cs           # Ponto de entrada da aplicaÃ§Ã£oâ”œâ”€â”€ Properties/          # Propriedades do projetoâ””â”€â”€ print.jpg           # Screenshot do aplicativo
-ğŸ¨ Interface do UsuÃ¡rio
+ListaDeCompras/+-- Form1.cs              # Formulário principal+-- Form1.Designer.cs     # Design do formulário+-- Form1.resx           # Recursos do formulário+-- Program.cs           # Ponto de entrada da aplicação+-- Properties/          # Propriedades do projeto+-- print.jpg           # Screenshot do aplicativo
+?? Interface do Usuário
 O aplicativo possui uma interface limpa e organizada com:
-Campo de texto para inserÃ§Ã£o de novos itens
-ListBox para exibiÃ§Ã£o dos itens adicionados
-BotÃµes para adicionar, remover e limpar a lista
+Campo de texto para inserção de novos itens
+ListBox para exibição dos itens adicionados
+Botões para adicionar, remover e limpar a lista
 Layout responsivo e intuitivo
-ğŸ”§ Recursos de Usabilidade Implementados
-ValidaÃ§Ã£o de entrada: Impede a adiÃ§Ã£o de itens vazios
-SeleÃ§Ã£o intuitiva: FÃ¡cil seleÃ§Ã£o de itens na lista
-Feedback visual: ConfirmaÃ§Ãµes visuais para aÃ§Ãµes do usuÃ¡rio
+?? Recursos de Usabilidade Implementados
+Validação de entrada: Impede a adição de itens vazios
+Seleção intuitiva: Fácil seleção de itens na lista
+Feedback visual: Confirmações visuais para ações do usuário
 Atalhos de teclado: Suporte a teclas de atalho para maior produtividade
-ğŸ¤ Contribuindo
-ContribuiÃ§Ãµes sÃ£o sempre bem-vindas! Para contribuir:
-FaÃ§a um fork do projeto
+?? Contribuindo
+Contribuições são sempre bem-vindas! Para contribuir:
+Faça um fork do projeto
 Crie uma branch para sua feature (git checkout -b feature/AmazingFeature)
-Commit suas mudanÃ§as (git commit -m 'Add some AmazingFeature')
+Commit suas mudanças (git commit -m 'Add some AmazingFeature')
 Push para a branch (git push origin feature/AmazingFeature)
 Abra um Pull Request
-ğŸ“„ LicenÃ§a
-Este projeto estÃ¡ sob a licenÃ§a MIT. Veja o arquivo LICENSE para mais detalhes.
-ğŸ‘¨â€ğŸ’» Autor
+?? Licença
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+????? Autor
 Guilherme Vitor
 GitHub: https://github.com/guihmk3/ListaDeCompras
-ğŸ“ Suporte
-Se vocÃª encontrar algum problema ou tiver sugestÃµes, por favor:
+?? Suporte
+Se você encontrar algum problema ou tiver sugestões, por favor:
 Abra uma issue
-Entre em contato atravÃ©s do GitHub
-â­ Se este projeto foi Ãºtil para vocÃª, considere dar uma estrela no repositÃ³rio!
+Entre em contato através do GitHub
+? Se este projeto foi útil para você, considere dar uma estrela no repositório!
  
  
 bash
@@ -72,6 +72,3 @@ cd lista-de-compras
 bash
 git clone https://github.com/seu-usuario/lista-de-compras.git
  
-
-
-
